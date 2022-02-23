@@ -1,0 +1,11 @@
+framework module flashlight {
+  umbrella header "flashlight-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flashlight.Swift {
+    header "flashlight-Swift.h"
+    requires objc
+}

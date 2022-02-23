@@ -1,0 +1,2 @@
+# CurrencyScanner
+CurrencyScanner
